@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 17 19:29:40 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-8313-6bc6-00000e6cf988 
+on database directory memory:/home/marcin/IdeaProjects/course-api-data/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+Loaded from file:/home/marcin/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11+28
+user.dir=/home/marcin/IdeaProjects/course-api-data
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-36-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
